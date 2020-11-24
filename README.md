@@ -9,6 +9,7 @@
 
 - [知乎热搜榜](https://github.com/justjavac/zhihu-trending-top-search)
 - [知乎热门话题](https://github.com/justjavac/zhihu-trending-hot-questions)
+- [微博热搜榜](https://github.com/justjavac/weibo-trending-hot-search)
 
 ## 今日热门视频
 
