@@ -3,7 +3,7 @@
 [![Build Status](https://github.com/justjavac/zhihu-trending-hot-video/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/zhihu-trending-hot-video/actions)
 [![license](https://img.shields.io/github/license/justjavac/zhihu-trending-hot-video)](https://github.com/justjavac/zhihu-trending-hot-video/blob/master/LICENSE)
 
-知乎热门视频，记录从 2020-11-24 日开始的知乎热门视频
+知乎热门视频，记录从 2020-11-24 日开始的知乎热门视频。每小时抓取一次数据，按天[归档](./archives)。
 
 ## 相关项目
 
