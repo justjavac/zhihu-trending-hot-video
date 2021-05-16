@@ -1,6 +1,6 @@
 export type Item = {
   target: {
-    title_area: {
+    titleArea: {
       text: string;
     };
     link: {
